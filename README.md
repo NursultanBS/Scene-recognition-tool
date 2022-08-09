@@ -1,3 +1,7 @@
+• project_report file contains a report on this project describing the classification models, training process, results and conclusion.
+
+• project_output file shows the code on how the models were built, trained and evaluated.
+
 • Run_all_classifiers.py file runs our classification models on the sample image “university.jfif”. It outputs the predicted scene classification, type of environment, scene attributes and outputs the heat map for the image in “cam.jpg”. 
 
 • The .ipynb file shows our work on training the multi-label attribute classifier and shows the output of other implemented models. The weights of the trained multi-label attribute classifier are saved in sun_attribute_classifier.pth. 
